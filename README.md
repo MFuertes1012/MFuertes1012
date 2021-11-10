@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MFuertes1012
 - 👀 I’m a systems ingineering student
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and C#
 - 📫 Ig: margie_fuertes 
 
 <!---
